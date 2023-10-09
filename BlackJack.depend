@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1696884445 source:c:\users\joann\onedrive\desktop\development\c++\blackjack\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<ctime>
+	<cstdlib>
+
